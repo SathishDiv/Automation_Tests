@@ -12,7 +12,7 @@ public class FirstTest {
 		
 		System.out.println("python");
 		
-		System.out.println("DataScience");
+		
 	}
 
 }
