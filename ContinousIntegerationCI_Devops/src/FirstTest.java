@@ -12,9 +12,6 @@ public class FirstTest {
 		
 		System.out.println("python");
 		
-		System.out.println("Datascience");
-		
-		System.out.println("ArtificalIntelligence");
 	}
 
 }
